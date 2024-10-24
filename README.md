@@ -1,23 +1,25 @@
-# 한밭대학교 OOOO학과 ㅁㅁㅁㅁ팀
+# 인공지능소프트웨어학과 EffAI Lab
 
-**팀 구성**
-- 20XX0001 김이박 
-- 20XX0002 이박김
-- 20XX0003 박김이
+#### On-device 기반 객체 인식 모델(YOLO) 최적화
 
-## <u>Teamate</u> Project Background
+![propwave_json](https://github.com/user-attachments/assets/ce6cb40f-c949-4f4e-a1c4-7bf1760826f7)
+[서울열린데이터광장](https://data.seoul.go.kr/etc/aiEduData.do)
+
+## 팀 구성
+김장환 / 신은호 / 이유진 / 진경은
+
+## Project Background
 - ### 필요성
-  - OOO
-  - OOO
+  - On-device 환경에서 작동 가능한 경량화된 객체 인식 모델 필요성
+
 - ### 기존 해결책의 문제점
-  - OOO
-  - OOO
+  - 메모리 사용량 문제
   
 ## System Design
   - ### System Requirements
-    - OOO
-    - OOO
-    
+    - 라즈베리파이5 환경
+
+<!-- 
 ## Case Study
   - ### Description
   
@@ -29,3 +31,5 @@
 ## Project Outcome
 - ### 20XX 년 OO학술대회 
 
+## 참고
+!-->
