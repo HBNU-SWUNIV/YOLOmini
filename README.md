@@ -56,7 +56,7 @@
   - ### Quantization
   
     <p>
-    <img width="470" alt="qat-training-precision" src="https://github.com/user-attachments/assets/a2f4d5e5-983f-4488-8faa-4e14e4d61902">
+    <img width="460" alt="qat-training-precision" src="https://github.com/user-attachments/assets/a2f4d5e5-983f-4488-8faa-4e14e4d61902">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img width="300" alt="8-bit-signed-integer-quantization" src="https://github.com/user-attachments/assets/ca7f8aa6-d7db-411d-b0d3-4e558e36bc57">
     </p>
@@ -96,3 +96,6 @@
 [onnxruntime-inference-examples](https://github.com/microsoft/onnxruntime-inference-examples/blob/main/quantization/image_classification/cpu/ReadMe.md) </br>
 [Google AI for Developers](https://ai.google.dev/edge/litert/models/post_training_quantization) </br>
 [Pytorch Quantization API Reference](https://pytorch.org/docs/stable/quantization-support.html) </br>
+
+https://pytorch.org/blog/quantization-in-practice/ </br>
+https://developer.nvidia.com/blog/achieving-fp32-accuracy-for-int8-inference-using-quantization-aware-training-with-tensorrt
