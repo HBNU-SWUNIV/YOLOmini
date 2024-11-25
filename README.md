@@ -56,7 +56,7 @@
   - ### Quantization
   
     <p>
-    <img width="480" alt="qat-training-precision" src="https://github.com/user-attachments/assets/a2f4d5e5-983f-4488-8faa-4e14e4d61902">
+    <img width="470" alt="qat-training-precision" src="https://github.com/user-attachments/assets/a2f4d5e5-983f-4488-8faa-4e14e4d61902">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img width="300" alt="8-bit-signed-integer-quantization" src="https://github.com/user-attachments/assets/ca7f8aa6-d7db-411d-b0d3-4e558e36bc57">
     </p>
